@@ -1,5 +1,6 @@
 .body {
-    color: rgb(88, 88, 243);
+    background: #1e1f24;
+    color: #333;
     text-align: center;
     font-family: "arial";
     font-size: 16px;
@@ -8,14 +9,18 @@
 
 }
 #cabecera2 {
-    background: rgba(206, 48, 0, 0.897);
-    box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.5);
+    background: #37488b;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
 }
-#container #agline {
+#cabecera2 #logo {
+    width: 20px;
+    vertical-align: middle;
+}
+#cabecera2 #tagline {
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
@@ -24,7 +29,7 @@
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid rgb(16, 71, 71);
+    border: 1px solid #ddd;
     margin: 0 auto;
 }
 #container h1{
@@ -32,5 +37,6 @@
     
 }
 #post{
+    background: white;
     padding: 1em;
 }
