@@ -10,4 +10,4 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor.
 * Las personalidades multiples de Freddy.
 
-Y como un amable recordatorio: "**Este readme.md es un chiste"**.Diseñado para el ejemplo.Si llegas acá NO TE LO TOMES EN SERIO y {[ve a ver el video](http://https://www.youtube.com/watch?v=eQkkLFh9TnU&ab_channel=Adri%C3%A0Sol%C3%A0Pastor "ve a ver el video")
+Y como un amable recordatorio: "**Este readme.md es un chiste"**.Diseñado para el ejemplo.Si llegas acá NO TE LO TOMES EN SERIO y {[ve a ver el video][mirar un video](http://www.youtube.com "mirar un video")
