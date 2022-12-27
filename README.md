@@ -9,5 +9,6 @@ En este curso vemos de todo:
 * El flujo de trabajo en git y github.
 * Trucos muy locos del profesor.
 * Las personalidades multiples de Freddy.
+* creado por el ceo de platzi 
 
 Y como un amable recordatorio: "**Este readme.md es un chiste"**.Diseñado para el ejemplo.Si llegas acá NO TE LO TOMES EN SERIO y {[ve a ver el video][mirar un video](http://www.youtube.com "mirar un video")
